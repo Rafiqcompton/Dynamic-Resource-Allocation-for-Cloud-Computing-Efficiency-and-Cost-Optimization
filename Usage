@@ -1,0 +1,5 @@
+Configure the cloud provider credentials and settings in config.py.
+
+Run the main algorithm:
+
+python main.py
